@@ -130,8 +130,11 @@
 /* The label for the button that allows to follow a team displayed in the World Cup widget more options panel when no previous team was selected. */
 "WorldCup.HomepageWidget.FollowTeamLabel.v151" = "Jarraitu taldea";
 
-/* The label indicating that the displaying match as ended. */
-"WorldCup.HomepageWidget.FTLabel.v151" = "(Partidaren amaiera)";
+/* The label indicating that the displaying match has ended. */
+"WorldCup.HomepageWidget.FTLabel.v151" = "(Amaituta)";
+
+/* The label indicating that the displaying match has ended. */
+"WorldCup.HomepageWidget.FTNoParenthesisLabel.v151" = "Amaituta";
 
 /* The label for the button that allows to select a custom wallpaper in the World Cup widget more options panel. */
 "WorldCup.HomepageWidget.GetCustomWallpaperLabel.v151" = "Lortu horma-paper pertsonalizatua";
@@ -141,6 +144,15 @@
 
 /* The label that appears for live World Cup matches. */
 "WorldCup.HomepageWidget.LiveLabel.v151" = "ZUZENEAN";
+
+/* Message shown in the World Cup widget when match data is temporarily unavailable. */
+"WorldCup.HomepageWidget.MatchUnavailableLabel.v151" = "Partidaren informazioa ez dago erabilgarri oraintxe bertan. Saiatu berritzen minutu batzuk barru.";
+
+/* Button label shown below the match unavailable message in the World Cup widget. Tapping it retries loading match data. */
+"WorldCup.HomepageWidget.MatchUnavailableRefreshButtonLabel.v151" = "Berritu";
+
+/* Message shown in the World Cup widget when the device has no internet connection. */
+"WorldCup.HomepageWidget.OfflineLabel.v151" = "Badirudi lineaz kanpo zaudela. Egiaztatu zure Interneterako konexioa eta saiatu berriro.";
 
 /* The label for the button that allows to remove the World Cup widget from the home screen in the more options panel. */
 "WorldCup.HomepageWidget.RemoveLabel.v151" = "Kendu";
@@ -155,16 +167,16 @@
 "WorldCup.HomepageWidget.RoundPhase.FinalLabel.v151" = "FINALA";
 
 /* The label indicating the displaying match has ended after penalties. */
-"WorldCup.HomepageWidget.RoundPhase.FullTimePenaltiesLabel.v151" = "Partidaren amaiera • Penaltiak";
+"WorldCup.HomepageWidget.RoundPhase.FullTimePenaltiesLabel.v151" = "Amaituta • Penaltiak";
 
 /* The label for the 'Quarter-finals' phase in the World Cup widget. */
 "WorldCup.HomepageWidget.RoundPhase.QuarterFinalsLabel.v151" = "FINAL-LAURDENAK";
 
 /* The label for the 'Round of 16' phase in the World Cup widget. */
-"WorldCup.HomepageWidget.RoundPhase.Round16Label.v151" = "FINAL HAMASEIRENAK";
+"WorldCup.HomepageWidget.RoundPhase.Round16Label.v151" = "FINAL ZORTZIRENAK";
 
 /* The label for the 'Round of 32' phase in the World Cup widget. */
-"WorldCup.HomepageWidget.RoundPhase.Round32Label.v151" = "FINAL HOGEITA HAMABIRENAK";
+"WorldCup.HomepageWidget.RoundPhase.Round32Label.v151" = "FINAL HAMASEIRENAK";
 
 /* The accessibility label for the scroll indicator that lets users navigate through the matches in the World Cup widget. */
 "WorldCup.HomepageWidget.RoundPhase.ScrollIndicatorAccessibilityLabel.v151" = "Korritu aurreko eta hurrengo partidak ikusteko";
